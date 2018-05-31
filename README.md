@@ -1,7 +1,7 @@
 # Kauno-Svara
 
-.csv duomenų rinkiniai gauti iš UAB "Kauno Švara" 2017 11mėn.<br>
+Duomenų rinkiniai iš UAB "Kauno Švara", pateikti 2017 11mėn.<br>
 
-2018 vasarą kuriama online prieiga nuolat atnaujinamiems rinkiniams.
+2018 bus pateikta online prieiga nuolat atnaujinamiems rinkiniams pasiekti.
 
 
