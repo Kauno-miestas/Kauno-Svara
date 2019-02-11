@@ -7,4 +7,4 @@ Duomenų rinkiniai iš UAB "Kauno Švara", pateikti 2017 11 12<br>
 <br><br>
 <em>- EN -</em>
 <br><br>
-Data about Kaunas cleaning facilities. Waiting for an API.
+Data about Kaunas cleaning facilities. API on its way.
